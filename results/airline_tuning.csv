@@ -1,0 +1,4 @@
+Model,Baseline CV,Tuned CV,Change,Best parameters
+KNN,0.8905528316914442,0.907538487764754,0.01698565607330982,"{'model__n_neighbors': 5, 'model__p': 1}"
+Decision Tree,0.9191641726859979,0.9191787824265153,1.4609740517368408e-05,{'model__max_depth': 12}
+SVC,0.9300469675995172,0.9300469675995172,0.0,"{'model__C': 1, 'model__kernel': 'rbf'}"
